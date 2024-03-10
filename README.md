@@ -19,4 +19,5 @@ College of Multimedia Amsterdam module 1 and 2 projecten
 * [MM-B](https://github.com/Aphelion-im/CMM-Front-End-Developer-Module-2-MM-B). Module 2's final project. Create a responsive cooking/recipe website, webshop, slider, forms, validation, product filters, interactive SVG, etc.
 
 
+## Homepage menu opdrachten
 ![Homepage menu opdrachten](./assets/homepage-andre-de-groot.jpg)
